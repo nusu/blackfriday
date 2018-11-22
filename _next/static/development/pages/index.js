@@ -250,7 +250,8 @@ function (_Component) {
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "#",
+        href: "https://nusretalabuga.typeform.com/to/AETa2J",
+        target: "_blank",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 48
