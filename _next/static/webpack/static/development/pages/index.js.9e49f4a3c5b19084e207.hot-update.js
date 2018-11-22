@@ -12,4 +12,4 @@ module.exports = [{"category":"Popular 🚀","items":[{"name":"Namecheap 👍","
 /***/ })
 
 })
-//# sourceMappingURL=index.js.571cef9fe0939e23be9d.hot-update.js.map
+//# sourceMappingURL=index.js.9e49f4a3c5b19084e207.hot-update.js.map
