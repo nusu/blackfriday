@@ -103,7 +103,7 @@ function (_Component) {
           lineNumber: 40
         },
         __self: this
-      }), " who doesn\u2019t want to miss opportunities"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Emojis, {
+      }), " who don\u2019t want to miss opportunities"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Emojis, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 41
